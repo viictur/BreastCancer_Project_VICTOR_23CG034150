@@ -1,0 +1,6 @@
+Name: Oyeyemi Victor
+Matric Number: 23CG034150
+Machine Learning Algorithm Used: Logistic Regression
+Model persistence method used: Joblib
+Live URL of the hosted application: https://winecultivar.streamlit.app
+GitHub repository link: https://github.com/viictur/BreastCancer_Project_VICTOR_23CG034150
